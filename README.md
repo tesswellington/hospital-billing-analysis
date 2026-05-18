@@ -5,11 +5,11 @@ An exploratory analysis of U.S. hospital billing patterns using Medicare inpatie
 ## Interactive Dashboard
 <p align="center">
   <a href="https://public.tableau.com/shared/K6NCCJQZJ?:display_count=n&:origin=viz_share_link">
-    <img src="hospital-billing-viz.png" alt="Tableau Dashboard Preview">
+    <img src="hospital-billing-viz.png" width=600 alt="Tableau Dashboard Preview">
   </a>
+  <br>
+  <a href="https://public.tableau.com/shared/K6NCCJQZJ?:display_count=n&:origin=viz_share_link">View the full interactive dashboard on Tableau Public</a>
 </p>
-
-[View Dashboard on Tableau Public](https://public.tableau.com/shared/K6NCCJQZJ?:display_count=n&:origin=viz_share_link)
 
 ## Key Findings
 **1. On average, Medicare paid about 16% of what hospitals charged.** Hospitals billed an average of roughly $92K per Medicare patient, while Medicare paid an average of about $15K, reflecting an overall markup ratio of around 6.09x.
