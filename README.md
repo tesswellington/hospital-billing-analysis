@@ -5,7 +5,7 @@ An exploratory analysis of U.S. hospital billing patterns using Medicare inpatie
 ## Interactive Dashboard
 <p align="center">
   <a href="https://public.tableau.com/shared/K6NCCJQZJ?:display_count=n&:origin=viz_share_link">
-    <img src="hospital-billing-viz.png" width=600 alt="Tableau Dashboard Preview">
+    <img src="assets/dashboard-preview.png" width=600 alt="Tableau Dashboard Preview">
   </a>
   <br>
   <a href="https://public.tableau.com/shared/K6NCCJQZJ?:display_count=n&:origin=viz_share_link">View the full interactive dashboard on Tableau Public</a>
