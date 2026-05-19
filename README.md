@@ -1,6 +1,6 @@
 # Hospital Billing Analysis
 
-An exploratory analysis of U.S. hospital billing patterns using Medicare inpatient data from the Centers for Medicare & Medicaid Services (CMS). This project investigates the gap between what hospitals charge and what Medicare actually pays across over 140,000 records from about 3,000 US hospitals and 540 Diagnosis-Related Groups (DRGs). The analysis aims to identify pricing patterns by procedure type, DRG, state, and hospital size.
+An exploratory analysis of U.S. hospital billing patterns using Medicare inpatient data from the Centers for Medicare & Medicaid Services (CMS). This project investigates the gap between what hospitals charge and what Medicare actually pays across over 140,000 records from about 3,000 US hospitals and 540 diagnosis-related groups (DRGs). The analysis aims to identify pricing patterns by procedure type, DRG, state, and hospital size.
 
 ## Interactive Dashboard
 <p align="center">
